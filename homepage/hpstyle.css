@@ -1,0 +1,46 @@
+body {
+    background-color: teal;
+}
+
+h1 {
+    background-color: darkgray;
+    font-size: 30pt;
+}
+
+nav a {
+    font-size: 14pt;
+    font-weight: 900;
+    text-decoration: none;
+    background-color: darkslateblue;
+    padding: 2mm;
+    color: gray;
+    margin: 0.1mm;
+}
+
+nav a:visited {
+    color: gray;
+}
+
+.headline {
+    font-size: 20pt;
+}
+
+p {
+    width: 90%;
+}
+
+div.content-block {
+    border-style: solid;
+    border-color: yellow;
+    border-width: thin;
+    background-color: darkslateblue;
+}
+
+#p1 {
+    font-size: larger;
+}
+
+/* visited links */
+a:visited {
+    color: white;
+}
